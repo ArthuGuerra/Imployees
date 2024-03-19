@@ -1,0 +1,15 @@
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/bin/Debug/net6.0/FuncionariosPobres
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/bin/Debug/net6.0/FuncionariosPobres.deps.json
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/bin/Debug/net6.0/FuncionariosPobres.runtimeconfig.json
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/bin/Debug/net6.0/FuncionariosPobres.dll
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/bin/Debug/net6.0/ref/FuncionariosPobres.dll
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/bin/Debug/net6.0/FuncionariosPobres.pdb
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/obj/Debug/net6.0/FuncionariosPobres.csproj.AssemblyReference.cache
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/obj/Debug/net6.0/FuncionariosPobres.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/obj/Debug/net6.0/FuncionariosPobres.AssemblyInfoInputs.cache
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/obj/Debug/net6.0/FuncionariosPobres.AssemblyInfo.cs
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/obj/Debug/net6.0/FuncionariosPobres.csproj.CoreCompileInputs.cache
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/obj/Debug/net6.0/FuncionariosPobres.dll
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/obj/Debug/net6.0/ref/FuncionariosPobres.dll
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/obj/Debug/net6.0/FuncionariosPobres.pdb
+/home/arthurguerra/Documentos/treino/FuncionariosPobres/obj/Debug/net6.0/FuncionariosPobres.genruntimeconfig.cache
